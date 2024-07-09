@@ -21,7 +21,7 @@ describe('verify session', () => {
       cy.xpath(obj_loginPage.submitBtnXpath()).click()
 
     })
-  })
+  }) 
   it('add employee details', () => {
 
     cy.visit("https://opensource-demo.orangehrmlive.com/web/index.php/pim/addEmployee")
