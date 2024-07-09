@@ -5,7 +5,7 @@ module.exports = defineConfig({
    baseUrl: 'https://opensource-demo.orangehrmlive.com/',
 
     env: {
-      userName: "Admin",
+      username: "Admin",
       password: "admin123"
     },
 
